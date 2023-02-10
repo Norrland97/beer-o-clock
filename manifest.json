@@ -1,0 +1,12 @@
+{
+    "name": "Beer o clock miniview",
+    "version": "1.0.0",
+    "description": "a mini view of the beer.fredag.dev counter",
+    "manifest_version": 3,
+    "author": "Norrland97",
+    "action":{
+        "default_popup": "extensionIndex.html",
+        "default_title": "Beer o' clock",
+        "default_icon": "icon.png"
+    }
+}
